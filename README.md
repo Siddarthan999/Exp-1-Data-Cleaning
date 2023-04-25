@@ -68,3 +68,6 @@ df.isnull().sum()
 
 ![image](https://user-images.githubusercontent.com/91734840/230834670-b1243101-e589-42e7-9e01-b0df419844d3.png)
 
+# RESULT
+
+Thus, to read the given data and perform data cleaning and save the cleaned data to a file has been performed successfully.
