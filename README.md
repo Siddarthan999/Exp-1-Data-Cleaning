@@ -64,7 +64,7 @@ df.info()
 
 df.isnull().sum()
 
-# OUPUT
+# OUTPUT
 
 ![image](https://user-images.githubusercontent.com/91734840/230834670-b1243101-e589-42e7-9e01-b0df419844d3.png)
 
