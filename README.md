@@ -10,19 +10,19 @@ Data cleaning is the process of preparing data for analysis by removing or modif
 
 # ALGORITHM
 
-# STEP 1
+### STEP 1
 
 Read the given Data
 
-# STEP 2
+### STEP 2
 
 Get the information about the data
 
-# STEP 3
+### STEP 3
 
 Remove the null values from the data
 
-# STEP 4
+### STEP 4
 
 Save the Clean data to the file
 
